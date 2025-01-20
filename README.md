@@ -1,4 +1,5 @@
 # INDUSTRIAL-TALK-2-(ACADEMIC REPORT)
+[INDUSTRIAL TALK 2 (ACADEMIC REPORT).pdf](https://github.com/DasneemBanu/INDUSTRIAL-TALK-2-REPORT-/blob/main/INDUSTRIAL%20TALK%202%20(ACADEMIC%20REPORT).pdf)
 
 # Hi Everyone!
 In my interpretation, this talk made me realize the necessity of improving technical skills which includesanalytic, problem solving and programming skills. This can be attained by enhancing proficiency in variousprogramming languages such as C++, Python and Java.
